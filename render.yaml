@@ -6,4 +6,4 @@ services:
     startCommand: node server.js
     envVars:
       - key: MONGODB_URI
-        value: your-mongodb-uri-here
+        value: mongodb+srv://ojwangjuli5:techies2030@cluster0.g9dhn83.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
